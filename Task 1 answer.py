@@ -4,6 +4,7 @@
 # In[3]:
 
 
+
 # %load "/Users/abdullahmalik/Desktop/AICourse/Task1_Python_script_Dushyant.py"
 # Python script to scrape an article given the url of the article and store the extracted text in a file
 # Url: https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
